@@ -1,3 +1,4 @@
 # Markov-Text-Generator
 In probability theory, Markov Process is used to determine the next state based on the only available information of the current state. In this process the current state and the probabilities for each transition from the current state to one of the possible next states are known. Randomly following the transitions with respect to their probabilities a Markov Chain is generated. Following figure shows an example Markov process [https://en.wikipedia.org/wiki/Markov_chain] where the numbers represent the probabilities of changing the state from A to E or vice versa depending on the direction of arrow. If the current state of the Markov Process is A then the probability of transitioning to the state E is 0.4 while the probability of staying in the same state is 0.6.
 
+![image](https://user-images.githubusercontent.com/34040916/53657676-a4480180-3c0b-11e9-8c4d-56d8b50f72ca.png)
