@@ -1,0 +1,12 @@
+﻿  SkipList_Markov.cpp
+c:\users\smj\desktop\674\imarkov\skiplist_markov\skiplist_markov.cpp(5): error C2955: 'SkipList_Markov': use of class template requires template argument list
+  c:\users\smj\desktop\674\imarkov\skiplist_markov\skiplist_markov.h(5): note: see declaration of 'SkipList_Markov'
+c:\users\smj\desktop\674\imarkov\skiplist_markov\skiplist_markov.cpp(5): error C2039: '{ctor}': is not a member of 'SkipList_Markov'
+  c:\users\smj\desktop\674\imarkov\skiplist_markov\skiplist_markov.h(5): note: see declaration of 'SkipList_Markov'
+c:\users\smj\desktop\674\imarkov\skiplist_markov\skiplist_markov.cpp(5): error C2059: syntax error: ')'
+c:\users\smj\desktop\674\imarkov\skiplist_markov\skiplist_markov.cpp(6): error C2143: syntax error: missing ';' before '{'
+c:\users\smj\desktop\674\imarkov\skiplist_markov\skiplist_markov.cpp(6): error C2447: '{': missing function header (old-style formal list?)
+c:\users\smj\desktop\674\imarkov\skiplist_markov\skiplist_markov.cpp(10): error C2955: 'SkipList_Markov': use of class template requires template argument list
+  c:\users\smj\desktop\674\imarkov\skiplist_markov\skiplist_markov.h(5): note: see declaration of 'SkipList_Markov'
+c:\users\smj\desktop\674\imarkov\skiplist_markov\skiplist_markov.cpp(11): error C2509: '{dtor}': member function not declared in 'SkipList_Markov'
+  c:\users\smj\desktop\674\imarkov\skiplist_markov\skiplist_markov.h(5): note: see declaration of 'SkipList_Markov'

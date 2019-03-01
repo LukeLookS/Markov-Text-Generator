@@ -1,0 +1,7 @@
+﻿  Test.cpp
+c:\users\smj\desktop\674\imarkov\test\test.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\smj\desktop\674\imarkov\dll_markov\dll_markov.h(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  c:\users\smj\desktop\674\imarkov\dll_markov\dll_markov.h(38): note: while compiling class template member function 'std::string DLL_Markov<std::string>::generate(int)'
+  c:\users\smj\desktop\674\imarkov\test\test.cpp(31): note: see reference to class template instantiation 'DLL_Markov<std::string>' being compiled
+  Test.vcxproj -> C:\Users\Smj\Desktop\674\IMarkov\Debug\Test.exe
+  Test.vcxproj -> C:\Users\Smj\Desktop\674\IMarkov\Debug\Test.pdb (Partial PDB)
